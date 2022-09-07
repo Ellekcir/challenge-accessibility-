@@ -2,8 +2,10 @@
 * {
     box-sizing: border-box;
     padding: 0;
-    margin: 0;
+    margin: 0;   
 }
+
+
  /* Element Selector*/
 body {
     background-color: #d9dcd6;
@@ -17,6 +19,7 @@ a {
 p {
     font-size: 16px;
 }
+
 
 /* Class Selectors*/
 /* Headers */
@@ -82,7 +85,6 @@ p {
 }
 
 .content section {
-
     width: 100%;
     display: inline-block;
     background-color: #0072bb;
@@ -115,11 +117,12 @@ p {
     width: 20%;
     height: 100%;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #227fb1;
+    background-color: #2490ca;
     color: #ffffff;
 }
 
 .benefits h3 {
+    text-align: center;
     padding-top: 10px;
     margin: 20px;
     
@@ -132,6 +135,8 @@ p {
     max-width: 150px;
 }
 
+
+/* Element Selector*/
 a {
     color: #ffffff;
     text-decoration: none;
@@ -143,7 +148,6 @@ p {
 }
 
 
-/* Element Selector*/
 /* Footer */
 footer {
     padding: 30px;

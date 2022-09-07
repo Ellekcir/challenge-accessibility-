@@ -12,9 +12,16 @@ N/A
 
 To maximise the users experience use the top header options; Search Engine Optimization, Online Reputation Management or Social Media Marketing to navigate to the designated content on the page. 
 
+![Snipping of header](assets/images/header-options.png)
+
+To access the full deployed website please use link below: 
+<br>
+https://ellekcir.github.io/challenge-accessibility-/
+
 ## Credits
 
-For original created code please see:
+For original created code before refactor, please see use link below: 
+<br>
 https://github.com/coding-boot-camp/urban-octo-telegram
 
 ## License
