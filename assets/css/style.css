@@ -65,18 +65,15 @@ p {
 /* Content */
 
 .content {
-   
     width: 75%;
     display: inline-block;
-    margin: 20px;
+    margin: 0px;
     height: 300px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     color: #ffffff;
 }
 
 .content img {
-    
-  
     position: static;
     max-height: 200px;
     margin: 40px;
