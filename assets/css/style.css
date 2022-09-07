@@ -64,7 +64,8 @@ p {
 
 /* Content */
 
-.content {
+.content {    
+    flex-direction: row;
     width: 75%;
     display: inline-block;
     margin: 0px;
@@ -77,20 +78,21 @@ p {
     position: static;
     max-height: 200px;
     margin: 40px;
+
 }
 
 .content section {
-    flex-direction: row;
+
     width: 100%;
     display: inline-block;
     background-color: #0072bb;
-    margin: 40px;
+    margin: 20px;
     margin-top: auto;
     margin-bottom: auto;
 }
 
-.content h2, p {
-    margin: 50px;
+.content h2 {
+    margin: 20px;
     font-size: 36px;
 }
 
@@ -108,7 +110,6 @@ p {
 /* Side Bar */
 .benefits {
     margin-right: 20px;
-    padding: 20px;
     clear: both;
     float: right;
     width: 20%;
@@ -120,8 +121,8 @@ p {
 
 .benefits h3 {
     padding-top: 10px;
-    margin: 10px;
-    text-align: center;
+    margin: 20px;
+    
 }
 
 .benefits img {
@@ -137,6 +138,7 @@ a {
 }
 
 p {
+    margin: 20px;
     font-size: 16px;
 }
 
